@@ -1,3 +1,10 @@
+/*
+シェルを作るぷるグラム
+
+pipeはできてない。。。
+cdも対応してはい。。。
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
