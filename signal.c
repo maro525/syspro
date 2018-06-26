@@ -22,4 +22,4 @@ int main(int argc, char **argv)
     signal(SIGUSR1, func1);
     signal(SIGUSR2, func2);
     while(1);
-}
+} 
