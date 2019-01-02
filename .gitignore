@@ -1,3 +1,6 @@
+*.pages
+*.mov
+*.zip
 test/*
 submission/*
 slide/*
